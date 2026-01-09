@@ -183,7 +183,13 @@ Fonctionnalités qui pourraient être ajoutées dans une version future :
 
 ## Conclusion
 
-L'application **Gaming Tracker MN** répond à l'ensemble des critères du TP Flutter et démontre une bonne maîtrise des concepts fondamentaux du framework. Le projet est fonctionnel, bien structuré, et prêt à être utilisé ou étendu avec de nouvelles fonctionnalités.
+Ce projet de suivi de bibliothèque de jeux vidéo a été une expérience enrichissante qui m'a permis de mettre en pratique les concepts Flutter vus en cours. Au-delà de la simple validation des critères techniques du TP, j'ai cherché à créer une application véritablement utilisable qui correspond à un besoin réel : organiser sa collection de jeux et suivre sa progression.
+
+Le développement m'a confronté à plusieurs défis intéressants, notamment la gestion d'état avec Provider, la validation de formulaires complexes, et la création d'une interface cohérente sur plusieurs écrans. J'ai particulièrement apprécié travailler sur la page de statistiques, qui donne du sens aux données collectées et offre une vue d'ensemble motivante de son activité gaming.
+
+L'architecture mise en place permet d'envisager facilement des évolutions futures, comme l'ajout de la persistance locale ou l'intégration d'une API pour récupérer automatiquement les informations des jeux. Ces améliorations pourraient transformer cette application de démonstration en un outil réellement utile au quotidien.
+
+Ce TP m'a permis de consolider ma compréhension de Flutter et de découvrir les bonnes pratiques d'organisation d'un projet mobile.
 
 Le code source complet est disponible sur le dépôt GitHub : https://github.com/Sneakywz/gaming_tracker_mn_flutter
 
